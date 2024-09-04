@@ -32,7 +32,7 @@ Aprendizados:
 
 Neste projeto Rocketseat foi feito um blog com o tema "Blog de gatos" para desktop e mobile, com o intuito de estudar fundamentos sobre responsividade em diferentes dispositivos e customização com html e css, e varias formas de usar o grid template, onde, foi desafiado a reprodução de um layout pelo figma com os conceitos aprendidos em aula. Espero que gostem!
 
-- [Acesse o projeto finalizado, online](https://luriserdan.github.io/Cheesecake/)
+- [Acesse o projeto finalizado, online](https://luriserdan.github.io/Blog-de-gatos/)
 
 ## 🔖 Layout
 
